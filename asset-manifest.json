@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Faisalkhan1123/Restaurant-Menu-UI.git/static/css/main.17655c3c.css",
+    "main.js": "/Faisalkhan1123/Restaurant-Menu-UI.git/static/js/main.f19df33c.js",
+    "index.html": "/Faisalkhan1123/Restaurant-Menu-UI.git/index.html",
+    "main.17655c3c.css.map": "/Faisalkhan1123/Restaurant-Menu-UI.git/static/css/main.17655c3c.css.map",
+    "main.f19df33c.js.map": "/Faisalkhan1123/Restaurant-Menu-UI.git/static/js/main.f19df33c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17655c3c.css",
+    "static/js/main.f19df33c.js"
+  ]
+}
